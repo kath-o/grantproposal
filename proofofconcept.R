@@ -47,3 +47,7 @@ Wc ~ Elevation + Lat
 
 fitpaths3 <- sem(paths3, data=proofofcon)
 summary(fitpaths3)
+
+
+
+
